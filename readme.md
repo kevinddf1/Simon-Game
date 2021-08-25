@@ -6,4 +6,4 @@
 ### 2. Start the game by run 
   "node app.js"
 
-### 3. Go to localhost:3000 on your browser, or double click "index.html" file
+### 3. Go to "localhost:3000" on your browser, or double click "index.html" file
